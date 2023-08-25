@@ -1,5 +1,7 @@
 # NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day
 
+Test 
+
 This repository showcase a working pipeline that can be used for the [NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day](https://llm-efficiency-challenge.github.io/index) challenge. The aim of this challenge is to come up with strategies to finetune a large language model either on 1 Nvidia 4090 or 1 A100 (40 GB) inorder to improve the performance on a subset of HELM benchmark and on a set of secret holdout tasks.
 
 Coming up with strategies is one thing but one needs to first have a working pipeline to fit atleast a 7B LLM in one GPU. This itself is a challenge. This repo is created to outline the setup and gotchas and is built on the shoulder of giants.
