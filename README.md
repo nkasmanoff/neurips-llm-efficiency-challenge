@@ -19,7 +19,7 @@ conda create -n neurips-llm python==3.10.0
 ### 2. Clone this repository
 
 ```
-git clone --recurse-submodule https://github.com/ayulockin/neurips-llm-efficiency-challenge
+git clone --recurse-submodule https://github.com/nkasmanoff/neurips-llm-efficiency-challenge
 cd neurips-llm-efficiency-challenge
 ```
 
